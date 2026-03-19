@@ -14,7 +14,7 @@ Ziel ist die Extraktion häufig vorkommender Themen aus unstrukturierten Beschwe
 
 ## Projektstruktur
 ```
-nlp-complaint-analysis/
+dataanalysis_task1/
 │
 ├── load_data.py          # Datensatz laden und erste Übersicht
 ├── prepare_data.py       # Textvorverarbeitung und Bereinigung
@@ -33,8 +33,6 @@ nlp_env\Scripts\activate
 # Abhängigkeiten installieren
 pip install -r requirements.txt
 
-# spaCy Sprachmodell herunterladen
-python -m spacy download en_core_web_sm
 ```
 
 ## Ausführung
@@ -50,13 +48,13 @@ python topic_modeling.py
 | Bibliothek | Verwendungszweck |
 |---|---|
 | Pandas, NumPy | Datenverarbeitung |
-| NLTK, spaCy | Textvorverarbeitung |
+| NLTK | Textvorverarbeitung |
 | scikit-learn | TF-IDF, NMF, LDA |
 | Gensim | Word2Vec Embeddings |
 | tqdm | Fortschrittsanzeige |
 
 ## Methoden
-### Textvorverarbeitung (prepare_data.py)
+### Textvorverarbeitung mittels NLTK (prepare_data.py)
 Kleinschreibung, Entfernung von Sonderzeichen, URLs und Zahlen, Tokenisierung, Stoppwortentfernung und Lemmatisierung.
 
 ### Vektorisierung (vectorize.py)
