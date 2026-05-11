@@ -1,0 +1,3 @@
+NMF Coherence Score: 0.6377
+LDA Coherence Score: 0.5842
+Better Model: NMF

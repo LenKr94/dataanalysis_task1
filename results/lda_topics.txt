@@ -1,0 +1,12 @@
+Leere oder fehlende Texte, sowie anonymisierte Platzhalter (z.Bsp. 'xxxx') wurden vor der weiteren Verarbeitung entfernt, da sie zu Problemen bei der Vektorisierung führen können.
+
+Topic 1: credit, report, letter, account, bureau, information, sent, dispute, company, im
+Topic 2: financial, consumer, action, protection, caused, practice, resolution, act, significant, failed
+Topic 3: credit, reporting, report, information, account, fcra, violation, inaccurate, act, fair
+Topic 4: inquiry, credit, loan, hard, date, unauthorized, report, consent, without, purpose
+Topic 5: account, report, credit, identity, information, theft, fraudulent, number, item, please
+Topic 6: card, bank, charge, claim, received, transaction, xxxxyear, fraud, request, issue
+Topic 7: debt, collection, company, original, proof, validation, alleged, contract, creditor, provide
+Topic 8: account, would, told, loan, call, time, called, bank, money, back
+Topic 9: consumer, information, usc, reporting, section, agency, account, right, state, report
+Topic 10: payment, account, late, balance, date, credit, due, paid, creditor, reported
